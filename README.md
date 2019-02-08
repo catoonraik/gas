@@ -10,9 +10,7 @@ http://qiita.com/osamu1203/items/0de2909821a1b3cbb350
 ---
 
 # Line
-## 「LINE Notifyのマイページ」でグループを作成
-
-https://access.line.me/dialog/oauth/weblogin?response_type=code&client_id=1476232700&redirect_uri=https%3A%2F%2Fnotify-bot.line.me%2Flogin%2Fcallback&state=cVUqnqvNYgJzq2EPMLqCVy&response_mode=form_post
+## [「LINE Notifyのマイページ」でグループを作成](https://access.line.me/dialog/oauth/weblogin?response_type=code&client_id=1476232700&redirect_uri=https%3A%2F%2Fnotify-bot.line.me%2Flogin%2Fcallback&state=cVUqnqvNYgJzq2EPMLqCVy&response_mode=form_post)
 
 ## グループに「Notify」をメンバーに追加
 
