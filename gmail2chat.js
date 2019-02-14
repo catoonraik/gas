@@ -109,7 +109,7 @@ function sendEmailsToSns() {
     //author_name: "author_name : sakaguchi",//インデント内に表示される著者名
     //author_link: "http://google.co.jp/",//そのリンク
     title: subject,//インデント内に表示されるタイトル
-    //title_link: "https://zabbix.njc-web.info/",//そのリンク
+    //title_link: "https://zabbix.xxxx.info/",//そのリンク
     text: body //インデント内に表示されるテスト
     }
     ]);
