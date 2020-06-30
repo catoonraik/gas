@@ -122,7 +122,7 @@ function sendEmailsToSns() {
       'method' : 'post',
       'payload' : JSON.stringify({
         'username': 'Zabbix',
-        'channel' : '#daitoleasing',
+        'channel' : '#taitorice',
         'icon_emoji': icon_emoji,
         'text': output,
       })
